@@ -1,3 +1,6 @@
+# THIS REPO IS DEPRECATED AND SHOULD NOT BE USED. USE THE GOOGLE ADS OFFICIAL REPOSITORY.
+https://github.com/googleads/googleads-php-lib
+
 ## The Google Ads APIs PHP Client Library
 
 This project hosts the PHP client library for the various SOAP-based Ads APIs
